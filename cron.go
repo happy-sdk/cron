@@ -2,6 +2,10 @@
 //
 // Copyright © 2023 The Happy Authors
 
+// Package cron implements a cron spec parser and runner.
+// Deprecated: This module is no longer maintained.
+// Development has moved to github.com/happy-sdk/happy-go/scheduling/cron.
+// Users are encouraged to use the new module location for future updates and bug fixes.
 package cron
 
 import "time"
